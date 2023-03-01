@@ -1,5 +1,5 @@
 // ! three types of varibles 
-
+// This is testing for git
 var  a;
 // *  In this case multiple declaration is allowed
 // * it can be reassign
